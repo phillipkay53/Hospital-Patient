@@ -38,5 +38,9 @@ The dataset for this project includes multiple CSV files containing waitlist dat
 1. Clone the repository: `git clone[https://github.com/phillipkay53/Hospital-Patient-Dashboard.git]`
 2. Open the Power BI file to explore the dashboard.
 
+
+## Interactive Dashboard
+To view the interactive dashboard, visit the [Hospital Patient Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzJiNTkwMjAtZjE0ZC00MzFlLWJlODQtOWY2ZDFjYjRiODkyIiwidCI6ImM5YzMxMDk2LTBjODUtNDIzNS1iMWI2LWE3Yzg1ZWRlNjY3NiJ9).
+
 ## GitHub Repository
 [Hospital Patient Dashboard](https://github.com/phillipkay53/Hospital-Patient-Dashboard.git)
