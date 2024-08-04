@@ -42,5 +42,9 @@ The dataset for this project includes multiple CSV files containing waitlist dat
 ## Interactive Dashboard
 To view the interactive dashboard, visit the [Hospital Patient Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzJiNTkwMjAtZjE0ZC00MzFlLWJlODQtOWY2ZDFjYjRiODkyIiwidCI6ImM5YzMxMDk2LTBjODUtNDIzNS1iMWI2LWE3Yzg1ZWRlNjY3NiJ9).
 
+## Hospital Patient Dashboard Report
+
+To view the detailed Patient Dashboard Report, click this link [Hospital Patient Dashboard Report](https://www.canva.com/design/DAGM5yjq55U/vOWAHapeYwr8FEYHM-Tsrw/view).
+
 ## GitHub Repository
 [Hospital Patient Dashboard](https://github.com/phillipkay53/Hospital-Patient-Dashboard.git)
